@@ -24,7 +24,7 @@ We will introduce a general workflow to deal with single cell RNA-seq data from 
 
 
 **If running locally**:
-- Python packages: Scanpy, Pandas, NumPy, SciPy, Matplotlib, Seaborn, and rp2
+- Python packages: Scanpy, Pandas, NumPy, SciPy, Matplotlib, Seaborn, rp2, and leidenalg
 	- Can be installed with: `pip3 install -r requirements.txt`
 - R packages: Scran
 	- Can be installed with by running `install.R`

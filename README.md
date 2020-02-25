@@ -6,7 +6,7 @@ We will introduce a general workflow to deal with single cell RNA-seq data from 
 
 ### Timeline
 1. **Before workshop**:
-	1. Read README.md and install prerequisites:
+	1. Read README.md and install prerequisites. Alternatively head to [binder link](https://mybinder.org/v2/gh/watronfire/CViSB_Workshop_TCells/master?filepath=Workshop_Notebook.ipynb ):
 		1. Download GitHub repository: `git clone git@github.com:watronfire/CViSB_Workshop_TCells.git`
 		2. Change directory into downloaded GitHub repository. 
 		3. Install python requirements: `pip3 install -r requirements.txt`
@@ -26,3 +26,5 @@ We will introduce a general workflow to deal with single cell RNA-seq data from 
 **To run locally**:
 - Python packages: Scanpy, Pandas, NumPy, SciPy, Matplotlib, Seaborn, rp2, and leidenalg
 - R packages: Scran
+**To run Binder**:
+- Functional, modern web browser

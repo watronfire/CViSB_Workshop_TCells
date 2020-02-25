@@ -149,8 +149,7 @@ requests==2.21.0
 rope==0.16.0
 rpy2==3.0.1
 rsa==4.0
-# Editable install with no version control (scanpy==1.4.5.1)
--e /usr/local/lib/python3.7/site-packages
+scanpy==1.4.5.1
 scikit-bio==0.5.5
 scikit-learn==0.22.1
 scipy==1.4.1

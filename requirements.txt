@@ -1,6 +1,6 @@
 leidenalg==0.7.0
 louvain==0.6.1
-numpy==1.18.1
+numpy==1.22.0
 pandas==1.0.1
 scanpy==1.4.5.1
 umap-learn==0.3.10
